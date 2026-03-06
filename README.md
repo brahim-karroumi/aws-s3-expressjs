@@ -131,10 +131,7 @@ By default, only the bucket owner can access it. You need to create a dedicated 
 3. Give a description tag value (e.g. `aws-tag-value`).
 4. Copy the generated **Access key** and **Secret access key** into your `.env`:
 
-```env
-ACCESS_KEY=AKIA6KXE***GZLC3UIMS
-SECRET_ACCESS_KEY=HvW6U*****SuxkO0DXkToKZsO+EMT/pY8wX
-```
+your env data
 
 ---
 
