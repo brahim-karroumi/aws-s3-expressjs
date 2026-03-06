@@ -90,7 +90,7 @@ app.post("/posts", upload.single("image"), (req, res) => {
 2. Search for **S3** in the navbar under the **Products** tab and click it.
 3. Click **Create bucket**.
 4. Choose **General purpose**, give your bucket a name, and click **Create bucket**.
-5. Navigate to **Properties**, copy the **region** and **bucket name**, then add them to your `.env` 
+5. Navigate to **Properties**, copy the **region** and **bucket name**, then add them to your `.env`.
 
 ---
 
